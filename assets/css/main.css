@@ -249,7 +249,7 @@ section {
 
 .header .btn-getstarted,
 .header .btn-getstarted:focus {
-  font-size: 16px;
+  font-size: 0.8rem;
   color: var(--color-white);
   background: var(--color-primary);
   padding: 8px 23px;
