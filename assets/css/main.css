@@ -613,7 +613,7 @@ section {
 @media (max-width: 575px) {
   .hero-animated .animated {
     /* //max-width: 80%; */
-    max-width: -webkit-fill-available;
+    max-width: 100%;
   }
 }
 
